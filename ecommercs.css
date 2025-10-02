@@ -7,6 +7,7 @@
 body{
     background-color: white;
     display: inline;
+    overflow-x: hidden;
 }
 
 body .lamp{
