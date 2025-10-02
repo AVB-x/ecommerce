@@ -6,11 +6,11 @@
 
 body{
     background-color: white;
-    display: inline;
+    /* display: inline; */
     overflow-x: hidden;
 }
 
-body .lamp{
+.lamp{
     display: flex;
     justify-content:space-between;
     align-items: center;
@@ -46,8 +46,8 @@ section{
 .sky{
     margin: 40px;
     margin-bottom: 20px;
-    width: 650px;
-    height: 600px;
+    width: 500px;
+    height: 500px;
 }
 
 img{
@@ -60,9 +60,9 @@ img{
     margin-right: 30px;
 }
 .fish img{
-    margin-right: 20px;
-    margin-left: 20px;
-    width: 120px;
+    margin-right: 10px;
+    margin-left: 10px;
+    width: 100px;
 }
 
 section main{
